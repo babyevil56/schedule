@@ -1,0 +1,4 @@
+enum ScheduleStatusType{
+  Complete,
+  Incomplete
+}
